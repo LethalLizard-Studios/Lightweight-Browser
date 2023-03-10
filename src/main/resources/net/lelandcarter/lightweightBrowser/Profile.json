@@ -1,0 +1,19 @@
+{
+  "home:url": "https://duckduckgo.com/",
+  "search:url": "https://duckduckgo.com/?q=",
+
+  "bookmarks": [
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv"
+    },
+    {
+      "name": "LethalLizard Studios",
+      "url": "https://www.lethallizard.studio"
+    }
+  ]
+}
